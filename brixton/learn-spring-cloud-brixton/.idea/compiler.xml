@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learn-brixton-eureka-producer" />
+        <module name="learn-brixton-eureka-server" />
+        <module name="learn-brixton-feign-customer" />
+        <module name="learn-brixton-ribbon-customer" />
+        <module name="learn-spring-cloud-brixton" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="learn-brixton-eureka-producer" target="1.8" />
+      <module name="learn-brixton-eureka-server" target="1.8" />
+      <module name="learn-brixton-feign-customer" target="1.8" />
+      <module name="learn-brixton-ribbon-customer" target="1.8" />
+      <module name="learn-spring-cloud-brixton" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
