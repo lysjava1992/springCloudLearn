@@ -8,6 +8,9 @@
         <option value="$PROJECT_DIR$/learn-brixton-eureka-producer/pom.xml" />
         <option value="$PROJECT_DIR$/learn-brixton-ribbon-customer/pom.xml" />
         <option value="$PROJECT_DIR$/learn-brixton-feign-customer/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-brixton-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-brixton-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-brixton-zuul/pom.xml" />
       </list>
     </option>
   </component>

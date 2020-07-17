@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/learn-brixton-config-client/learn-brixton-config-client.iml" filepath="$PROJECT_DIR$/learn-brixton-config-client/learn-brixton-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-brixton-config-server/learn-brixton-config-server.iml" filepath="$PROJECT_DIR$/learn-brixton-config-server/learn-brixton-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn-brixton-eureka-producer/learn-brixton-eureka-producer.iml" filepath="$PROJECT_DIR$/learn-brixton-eureka-producer/learn-brixton-eureka-producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn-brixton-eureka-server/learn-brixton-eureka-server.iml" filepath="$PROJECT_DIR$/learn-brixton-eureka-server/learn-brixton-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn-brixton-feign-customer/learn-brixton-feign-customer.iml" filepath="$PROJECT_DIR$/learn-brixton-feign-customer/learn-brixton-feign-customer.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn-brixton-ribbon-customer/learn-brixton-ribbon-customer.iml" filepath="$PROJECT_DIR$/learn-brixton-ribbon-customer/learn-brixton-ribbon-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-brixton-zuul/learn-brixton-zuul.iml" filepath="$PROJECT_DIR$/learn-brixton-zuul/learn-brixton-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/learn-spring-cloud-brixton.iml" filepath="$PROJECT_DIR$/learn-spring-cloud-brixton.iml" />
     </modules>
   </component>

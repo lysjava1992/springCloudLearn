@@ -2,9 +2,12 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-brixton-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-brixton-config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/learn-brixton-eureka-producer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/learn-brixton-eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/learn-brixton-feign-customer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/learn-brixton-ribbon-customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-brixton-zuul" charset="UTF-8" />
   </component>
 </project>

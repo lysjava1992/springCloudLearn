@@ -8,7 +8,6 @@ import org.springframework.cloud.netflix.feign.EnableFeignClients;
 /**
  * @EnableDiscoveryClient 服务发现
  * @EnableFeignClients 服务调用
- *
  */
 @EnableFeignClients
 @EnableDiscoveryClient
